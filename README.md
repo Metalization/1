@@ -13,4 +13,4 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">游戏制作创意齿轮</pre><a href="https://b23.tv/3mfo3Ee">Android下载</a>·<a href="https://b23.tv/3mfo3Ee">Windows下载</a>
+                                        <pre class="aplayer-lrc-content">游戏制作创意齿轮<a href="https://b23.tv/3mfo3Ee">Android下载</a>·<a href="https://b23.tv/3mfo3Ee">Windows下载</a></pre>
