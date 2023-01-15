@@ -1,5 +1,7 @@
 # Game-Maker-X
-   ·<a href="https:Metalization.github.io/Game Maker X/">首页</a>·<a href="https://b23.tv/3mfo3Ee">B站</a>·
+   ·<a href="https:Metalization.github.io/Game Maker X/">首页</a>·<a href="https://b23.tv/8JP2JWT">B站</a>·
+
+————>游戏制作创意齿轮<————
 
  ◇<strong>应用</strong>（.apks_.exe)
 <body>
@@ -15,15 +17,7 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">游戏制作创意齿轮<a href="https://b23.tv/3mfo3Ee">Android下载</a>·<a href="https://b23.tv/3mfo3Ee">Windows下载</a></pre>
- ◇<strong>组件</strong>（.obj）
-<a href="https://imgse.com/i/pSKUTRH"><img src="https://s1.ax1x.com/2023/01/13/pSKUTRH.jpg" alt="pSKUTRH.jpg" border="0" /></a>
-<center>
-                            <div id="header"></div>
-                            <div id="main">
-                                <div class="demo">
-                                    <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">按键·<a href="https://b23.tv/3mfo3Ee">前往</a>   角色·<a href="https://b23.tv/3mfo3Ee">前往</a>   召唤物·<a href="https://b23.tv/3mfo3Ee">前往</a>   特效·<a href="https://b23.tv/3mfo3Ee">前往</a></pre>
+                                        <pre class="aplayer-lrc-content">游戏制作创意齿轮<a href="https://www.pgyer.com/NABC">Android下载</a></pre>
  ◇<strong>素材</strong>（.png）
 <a href="https://imgse.com/i/pSKao7V"><img src="https://s1.ax1x.com/2023/01/13/pSKao7V.jpg" alt="pSKao7V.jpg" border="0" /></a>
 <center>
@@ -31,8 +25,8 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">爱给网素材供给·<a href="https://b23.tv/3mfo3Ee">前往</a></pre>
- ◇<strong>上传</strong>（.apks_.exe)
+                                        <pre class="aplayer-lrc-content">爱给网素材供给·<a href="https://m.aigei.com/game/">前往</a></pre>
+ ◇<strong>上传</strong>（.apks)
 <a href="https://imgse.com/i/pSKdhCD"><img src="https://s1.ax1x.com/2023/01/13/pSKdhCD.jpg" alt="pSKdhCD.jpg" border="0" /></a>
 
 <center>
