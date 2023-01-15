@@ -1,5 +1,5 @@
 # Game-Maker-X
-   ·<a href="https:Metalization.github.io/Game Maker X/">首页</a>·<a href="https://b23.tv/8JP2JWT">B站</a>·
+   ·<a href="https:Metalization.github.io/GameMakerX/">首页</a>·<a href="https://b23.tv/8JP2JWT">B站</a>·
 
 ————>游戏制作创意齿轮<————
 
