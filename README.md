@@ -1,5 +1,5 @@
 # Game-Maker-X
-   ·<a href="https:Metalization.github.io/Game Maker X/">首页</a>·<a href="https://b23.tv/3mfo3Ee">社区</a>·<a href="https://b23.tv/3mfo3Ee">B站</a>·<a href="https://b23.tv/3mfo3Ee">个人</a>·
+   ·<a href="https:Metalization.github.io/Game Maker X/">首页</a>·<a href="https://b23.tv/3mfo3Ee">B站</a>·
 
  ◇<strong>应用</strong>（.apks_.exe)
 <body>
